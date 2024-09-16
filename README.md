@@ -5,6 +5,7 @@
 
 Hey! I’m Matthew, an aspiring software engineer. Here you'll find some of the personal projects I've been working on. My repositories show my journey from a beginner to my current work, so feel free to check out what I've been working on how I’ve grown!
 
+
 ## 🎓 Education
 
 **Boston University**, Boston, MA  
@@ -27,7 +28,7 @@ Minor in Business Administration
 ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013B57?style=flat-square&logo=numpy&logoColor=white)
 
-#### tools
+#### Tools
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -37,8 +38,6 @@ Minor in Business Administration
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Fun Facts 🎵🏋️🌍
-- When I'm not coding, you'll find me listening to music, hitting the gym, or exploring new places. 
 
 ## 📬 Contact me!!
 
