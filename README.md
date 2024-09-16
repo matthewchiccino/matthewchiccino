@@ -5,8 +5,6 @@
 
 Hey! I’m Matthew, an aspiring software engineer. Here you'll find some of the personal projects I've been working on. My repositories show my journey from a beginner to my current work, so feel free to check out what I've been working on how I’ve grown!
 
-When I'm not coding, you'll find me jamming to music, hitting the gym, or exploring new places 🎵🏋️🌍. 
-
 ## 🎓 Education
 
 **Boston University**, Boston, MA  
@@ -34,17 +32,16 @@ Minor in Business Administration
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Fun Facts 🎵🏋️🌍
-- When I'm not coding, you'll find me jamming to music, hitting the gym, or exploring new places. 
+- When I'm not coding, you'll find me listening to music, hitting the gym, or exploring new places. 
 
 ## 📬 Contact me!!
 
 - **Email**: [chiccino@bu.edu](mailto:chiccino@bu.edu)
 - **LinkedIn**: [linkedin.com/in/matthew-chiccino](https://linkedin.com/in/matthew-chiccino)
 - **Website**: [matthewchiccino.github.io/Personal-Website/home.html](https://matthewchiccino.github.io/Personal-Website/home.html)
-
-
