@@ -1,6 +1,5 @@
 # Matthew Chiccino
 
-![Profile Banner](https://user-images.githubusercontent.com/your-image-path-here) <!-- Replace with an actual image path if you have one -->
 
 ## 👋 About Me
 
@@ -13,12 +12,31 @@ When I'm not coding, you'll find me jamming to music 🎵, hitting the gym 💪,
 **Boston University**, Boston, MA  
 _BS in Computer Science, Minor in Business Administration_  
 
-## 🛠 Skills
 
-- **Languages**: Python, Java, HTML, CSS
-- **AI**: LLMs, Fine-tuning, Langchain, Langsmith, Prompt Engineering, Vector Databases
-- **API**: FastAPI, Swagger, Postman
-- **Tools**: Google Cloud Services, Git, GitHub, Visual Studio Code
+## 🛠 Skills
+#### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+#### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-00B2A9?style=flat-square&logo=groq&logoColor=white)
+![Langsmith](https://img.shields.io/badge/-Langsmith-000000?style=flat-square&logo=langsmith&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=pygame&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013B57?style=flat-square&logo=numpy&logoColor=white)
+
+####tools
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 ## 📬 Contact
