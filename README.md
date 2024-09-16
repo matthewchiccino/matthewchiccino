@@ -26,7 +26,8 @@ Minor in Business Administration
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-00B2A9?style=flat-square&logo=groq&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=pygame&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013B57?style=flat-square&logo=numpy&logoColor=white)
+![SymPy](https://img.shields.io/badge/-SymPy-7D4C5C?style=flat-square&logo=sympy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 #### Tools
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
