@@ -38,6 +38,8 @@ Minor in Business Administration
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=emacs&logoColor=white)
+
 
 
 ## 📬 Contact me!!
