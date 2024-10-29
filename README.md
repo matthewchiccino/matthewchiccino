@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-Hey! I’m Matthew, an aspiring software engineer. Here you'll find some of the personal projects I've been working on. My repositories show my journey from a beginner to my current work, so feel free to check out what I've been working on how I’ve grown!
+Hey! I’m Matthew. Here you'll find some of the personal projects I've been working on. My repositories show my journey from a beginner to my current work, so feel free to check out what I've been working on how I’ve grown!
 
 
 ## 🎓 Education
