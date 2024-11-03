@@ -10,13 +10,14 @@ Hey! I’m Matthew. Here you'll find some of the personal projects I've been wor
 
 **Boston University**, Boston, MA  
 Major in Computer Science
-Minor in Business Administration
+Minor in Economics
 
 
 ## 🛠 Skills
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?style=flat-square&logo=assembly&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -28,11 +29,11 @@ Minor in Business Administration
 ![Groq](https://img.shields.io/badge/-Groq-00B2A9?style=flat-square&logo=groq&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-7D4C5C?style=flat-square&logo=sympy&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 #### Tools
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
