@@ -1,19 +1,19 @@
 # Matthew Chiccino
 
 
-## 👋 About Me
+## About
 
 Hey! I’m Matthew. Here you'll find some of the personal projects I've been working on. My repositories show my journey from a beginner to my current work, so feel free to check out what I've been working on how I’ve grown!
 
 
-## 🎓 Education
+## Education 🎓
 
 **Boston University**, Boston, MA  
 Major in Computer Science
 Minor in Economics
 
 
-## 🛠 Skills
+## Skills 🛠
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
